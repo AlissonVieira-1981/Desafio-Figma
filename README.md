@@ -4,3 +4,5 @@
 
 <h1>👇👇👇Apresentação do Projeto Coverage Responsivo👇👇👇</h1>
 
+<img src="https://github.com/user-attachments/assets/9b2fa0da-164b-4edc-ace9-bfa51abdd994">
+
